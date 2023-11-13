@@ -1,0 +1,4 @@
+enum AimType {
+  trackMyPeriod,
+  getPregnant,
+}
